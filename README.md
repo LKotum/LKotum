@@ -126,7 +126,3 @@
 <p align="center">
 	<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkotum&theme=apprentice"/>
 </p>
-
-<p align="center">
-	<img align="right" src="https://github.com/LKotum/LKotum/blob/main/assets/BGD.png" width="100"/>
-</p>
