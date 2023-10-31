@@ -13,13 +13,11 @@
 
 - ✅ I’m currently working on [Game Project](https://github.com/BadWolf1st/Records-of-a-lost-dimension)
 
-- ✅ I’m currently learning **Rust**
+- ✅ I’m currently learning **Rust, Go**
 
 - 📋 All of my projects are available at [https://github.com/LKotum](https://github.com/LKotum)
 
-- ❓ Ask me about **C, C++, Python**
-
-- ⭕️ How to reach me **Max.Lane.Dev@gmail.com**
+- ⭕️ Ask me about **C, C++, Python**
 
 - ⚡ Fun fact **In my free time I watch Anime or read Manga**
 
@@ -27,6 +25,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/MaxLaneDefault">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=max.lanee.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://vk.com/maxlane">
+    <img src="https://img.shields.io/badge/VK-grey?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+</a>
 </p>
 
 ---
