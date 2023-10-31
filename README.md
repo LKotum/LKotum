@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Arseniy</h1>
-<h3 align="center">I am a software developer from Moscow 🇷🇺</h3>
+![Header](https://github.com/LKotum/LKotum/blob/main/assets/github-snake.svg)
 
 ---
 
+<h1 align="center">Hi 👋, I'm Arseniy</h1>
+<h3 align="center">I am a software developer from Moscow 🇷🇺</h3>
+
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=lkotum&label=Profile%20views&color=0e75b6&style=flat" alt="lkotum"/>
-</p>
-
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=lkotum" alt="lkotum"/></a>
 </p>
 
 ---
@@ -31,6 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+---
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -119,16 +118,6 @@
 
 ---
 
-<p>
-	<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkotum
-	&theme=apprentice"/>
-</p>
-
-<p>
-	<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkotum
-	&theme=apprentice"/>
-</p>
-
-<p>
+<p align="center">
 	<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkotum&theme=apprentice"/>
 </p>
